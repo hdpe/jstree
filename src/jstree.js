@@ -1,4 +1,7 @@
 /**
+ *
+ * (Modified by Ryan Pickett (Clarilis) https://github.com/hdpe/jstree)
+ *
  * ## jsTree 2.0.0-alpha ##
  * http://jstree.com/
  *

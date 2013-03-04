@@ -8,7 +8,7 @@
 	};
 
 	$.jstree.plugins.html = function (options, parent) {
-		this.append_html_data = function (dom, data) {
+		this._append_html_data = function (dom, data) {
 			data = $(data);
 			dom = this.get_node(dom);
 			if(!data || !data.length || !data.is('ul, li')) {
